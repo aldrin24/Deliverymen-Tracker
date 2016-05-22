@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Deliverymen Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_tracker">Track my parcel</string>
+    <string name="share_my_location">Share my location</string>
+    <string name="title_activity_display_map">DisplayMapActivity</string>
+</resources>

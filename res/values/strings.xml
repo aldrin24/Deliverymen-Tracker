@@ -4,4 +4,6 @@
     <string name="location_tracker">Track my parcel</string>
     <string name="share_my_location">Share my location</string>
     <string name="title_activity_display_map">DisplayMapActivity</string>
+    <string name="edit_message">Enter unique id</string>
+    <string name="search_button">Find location</string>
 </resources>
